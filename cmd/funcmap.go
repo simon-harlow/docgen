@@ -114,13 +114,13 @@ func dateTime() string {
 func color(v string) string {
 	switch v {
 	case "GET":
-		return "info"
-	case "POST":
 		return "success"
+	case "POST":
+		return "warning"
 	case "PATCH":
-		return "warning"
+		return "info"
 	case "PUT":
-		return "warning"
+		return "info"
 	case "DELETE":
 		return "danger"
 	default:
