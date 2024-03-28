@@ -63,3 +63,20 @@ pre {outline: 1px solid #ffffff; padding: 5px; margin: 5px; }
 	color: #c0392b;
 	font-weight: bold;
 }
+
+table, td, th {
+	border: 1px solid #efefef;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+
+td {
+	padding: 10px;
+}
+
+.label {
+	margin-right: 5px;
+}
