@@ -308,4 +308,4 @@ URL: @{{ $item.Request.URL.Raw | trimQueryParams | e }}@
 ---
 [Back to top](#@{{ .Data.Info.Name | trim | glink }}@)
 
->Generated at @{{date_time}}@ by [docgen](https://github.com/thedevsaddam/docgen)
+>Generated at @{{date_time}}@ by [docgen](https://github.com/simon-harlow/docgen)

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/thedevsaddam/docgen/assets_bin"
+	"github.com/simon-harlow/docgen/assets_bin"
 	"gopkg.in/russross/blackfriday.v2"
 )
 

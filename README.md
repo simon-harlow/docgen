@@ -25,7 +25,7 @@ curl https://raw.githubusercontent.com/thedevsaddam/docgen/v3/uninstall.sh -o un
 **For windows download the binary and set environment variable so that you can access the binary from terminal**
 
 #### Binary link
-[Download binary](https://github.com/thedevsaddam/docgen/releases)
+[Download binary](https://github.com/simon-harlow/docgen/releases)
 
 ### Available features
 * Live postman collection to documentation
@@ -47,7 +47,7 @@ curl https://raw.githubusercontent.com/thedevsaddam/docgen/v3/uninstall.sh -o un
 Your suggestions will be more than appreciated.
 [Read the contribution guide here](CONTRIBUTING.md)
 
-### See all [contributors](https://github.com/thedevsaddam/docgen/graphs/contributors)
+### See all [contributors](https://github.com/simon-harlow/docgen/graphs/contributors)
 
 ### **License**
 The **docgen** is an open-source software licensed under the [MIT License](LICENSE.md).

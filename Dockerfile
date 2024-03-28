@@ -9,7 +9,7 @@ RUN apk update && \
     apk upgrade && \
     apk add git
 
-RUN git clone https://github.com/thedevsaddam/docgen.git .
+RUN git clone https://github.com/simon-harlow/docgen.git .
 
 RUN go generate
 RUN go build -o main .
