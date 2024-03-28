@@ -23,8 +23,6 @@ ul {
 ul li {
 	margin-left: -30px;
 	line-height: 16pt;
-	border-color: red;
-	color: blue;
 }
 ul li .endpoint_menu {
 	-webkit-transition: all 0.5s ease-out;
@@ -84,19 +82,19 @@ pre {
 
 /* my styles */
 
-table {
-	border: 1px solid #efefef;
+.table {
+	border: 1px solid #000000;
 	border-collapse: collapse;
 	margin: 10px 0px;
 }
 
 td {
 	padding: 10px;
-	border: 1px solid #efefef;
+	border: 1px solid #000000;
 }
 
 th {
-	border: 1px solid #efefef;
+	border: 1px solid #000000;
 }
 
 .label {
