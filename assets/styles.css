@@ -23,6 +23,8 @@ ul {
 ul li {
 	margin-left: -30px;
 	line-height: 16pt;
+	border-color: red;
+	color: blue;
 }
 ul li .endpoint_menu {
 	-webkit-transition: all 0.5s ease-out;
